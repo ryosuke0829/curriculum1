@@ -14,3 +14,4 @@ public class Task extends Calculator{
        System.out.println("plusメソッドの引数が三つの場合：" + Calculator.plus(10, 20, 30));
     }
 }
+
